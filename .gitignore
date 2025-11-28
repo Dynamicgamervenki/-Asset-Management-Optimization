@@ -87,6 +87,9 @@ ehthumbs_vista.db
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+Assets/TerrainDemoScene_URP/
+
+
 # Windows Installer files
 *.cab
 *.msi
